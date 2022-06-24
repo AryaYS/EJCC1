@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 7bc1444d95f299b4ab0cce0dad2e2eb4
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Makanan Daerah.unity
+    guid: d4cf6f28e508e2f41a9cabeb5ef55950
+  - enabled: 1
+    path: Assets/Scenes/Baju Daerah.unity
+    guid: 73bfb1e57065f9e4ab8865e85187376f
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Surabaya.unity
+    guid: 9fe8ac5a4daded547b0195aedc22664e
+  - enabled: 1
+    path: Assets/Scenes/Baju asal/BSurabaya.unity
+    guid: bc5bf5cd63104e34399ed7b104fed2d4
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/MalangKuliner.unity
+    guid: cfb24a38524dc87448510f94d46cda6b
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/LumajangKuliner.unity
+    guid: 9463248d274818542978ced557439dac
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Madiun/MadiunKuliner.unity
+    guid: a7918541fc9e3084aae2a108757dd1e2
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Tulungagung/Tulungagung kuliner.unity
+    guid: 74be6943d6945184cbc2472dec4f7e30
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Kediri/KediriKuliner.unity
+    guid: a5dcbe4359358c2428524ba0a87f2609
+  - enabled: 1
+    path: Assets/Scenes/Baju asal/Banyuwangi/BBanyuwangi.unity
+    guid: 4f5daadb15f0b6a48917c62512b61f06
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Banyuwangi/BanyuwangiKuliner.unity
+    guid: 5387aa47aabe6024e87a4d7090dd86de
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Jombang/JombangKuliner.unity
+    guid: 3c00b2da409383449a1faf72cc49e432
+  - enabled: 1
+    path: Assets/Scenes/Kota Asal Makanan/Lamongan/LamonganKuliner.unity
+    guid: ef9bf25dfaa9f084086332daa81676b9
+  - enabled: 1
+    path: Assets/Scenes/Baju asal/Madura/MaduraB.unity
+    guid: 0e044f1f344072643a51f268c7239620
+  m_configObjects: {}
